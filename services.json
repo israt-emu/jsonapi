@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Pregnancy Testing",
+    "img": "https://i.ibb.co/0qzcy1t/1.jpg",
+    "description": "Pregnancy tests work by checking your urine for a hormone called human chorionic gonadotropin (HCG).If you've had unprotected sex or your contraception has failed, you could be pregnant. You may need to take a pregnancy test to confirm this.A pregnancy test will be less accurate if it’s expired or if you don’t use it the right way.And Our expertise are so much concern about this."
+  },
+  {
+    "id": 2,
+    "name": "Gynecology",
+    "img": "https://i.ibb.co/QXz0vgx/2.jpg",
+    "description": "Our Gynecologists give reproductive and sexual health services that include pelvic exams, Pap tests, cancer screenings, and testing and treatment for vaginal infections.They diagnose and treat reproductive system disorders such as endometriosis, infertility, ovarian cysts, and pelvic pain. They may also care for people with ovarian, cervical, and other reproductive cancers."
+  },
+  {
+    "id": 3,
+    "name": "Family Planning",
+    "img": "https://i.ibb.co/rbMVKSz/3.jpg",
+    "description": "Family planning is the ability of individuals and couples to anticipate and attain their desired number of children and the spacing and timing of their births.It helps protect women from any health risks that may occur before, during or after childbirth. These include high blood pressure, gestational diabetes, infections, miscarriage and stillbirth.So,we are very care about this."
+  },
+  {
+    "id": 4,
+    "name": "Fertility medication",
+    "img": "https://i.ibb.co/g61j6Hj/4.jpg",
+    "description": "If you're a woman with infertility issues, your doctor may prescribe medicine to help you get pregnant. These meds, called fertility drugs, work by causing your body to release hormones that trigger or regulate ovulation -- the release of an egg from your ovary.Even if you already use another method to boost your chances of getting pregnant, such as in vitro fertilization, fertility drugs are still an important part of treatment.Our Expertise very concern about this."
+  },
+  {
+    "id": 5,
+    "name": "High risk pregnancy care",
+    "img": "https://i.ibb.co/vCn0ZGg/5.jpg",
+    "description": "There are several factors that make up a high-risk pregnancy ranging from high blood pressure in pregnancy and developing preeclampsia, placenta previa, having twins or higher order multiples, age of the mother, diabetes, multiple miscarriages, fetal abnormalities or pre-existing health conditions.We care and treat specially this type of patients."
+  },
+  {
+    "id": 6,
+    "name": "Abortion Services",
+    "img": "https://i.ibb.co/KDrnpgt/6.jpg",
+    "description": "The decision to have an abortion is very personal, and only you can decide what’s best for you. But we’re here to help answer whatever questions you may have, and make sure you get the care you need.If you’re under 18, some states require you to tell your parent or guardian that you’re getting an abortion, or get their permission to have an abortion.  However, you may be able to ask a judge to excuse you from these requirements."
+  }
+]
